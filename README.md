@@ -2,9 +2,16 @@
 
 # Instação
 
-https://github.com/jovemsigilosodobembr/crunch
+```
+https://github.com/gilmarscript/crunch
+````
+
 
 # Como Usar
+
+```
+cd crunch
+```
 
 ```
 crunch 4 4 1234567890 exmplo.txt
